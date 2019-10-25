@@ -1,3 +1,5 @@
+//Provide indentation and necessary documentation
+
 #include<stdio.h>
 int main2(){
    int numArr[10]={0};

@@ -2,8 +2,7 @@
 int main(){
 	char str[200],text[200],new_str[200];
 	int i=0,j=0,k=0,pos=0,n=0;
-	printf("\nEnter a string: ");
-	gets(text);
+	//Read a string to complete the program
 	printf("\nEnter the string to delete: ");
 	gets(str);
 	

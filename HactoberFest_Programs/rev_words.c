@@ -1,3 +1,5 @@
+//Provide indentation and necessary documentation
+
 #include<stdio.h>
 void reverse(char *str,int begin, int i){
 	char temp;

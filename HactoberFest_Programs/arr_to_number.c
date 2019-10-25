@@ -3,8 +3,7 @@
 #include<math.h>
 int main(){
 	int i,dig,number=0;
-	printf("Enter the number of digits: \n");
-	scanf("%d",&dig);
+	//Read a number to complete the program.
 	int arr[dig];
 	for(i=0;i<dig;i++){
 		printf("\nEnter %dth digit: ",i+1);

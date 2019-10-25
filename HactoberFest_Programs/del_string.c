@@ -9,12 +9,9 @@ int main(){
 	printf("\nEnter the no. of characters to delete: ");
 	scanf("%d",&num);
 	while(text[i]!=NULL){
-		if(i==pos){
-			while(num>0){
-				num--;
-				i++;
-			}
-		}
+		/*
+		Write the code to delete num no. of characters from position pos in string text.
+		*/
 		new_str[j++]=text[i++];
 		
 	}
